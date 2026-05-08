@@ -8,7 +8,7 @@ print(" /   _   \\")
 time.sleep(.5)
 print(" |  (8)  |")
 time.sleep(.5)
-print(" \   ^   /")
+print(" \\   ^   /")
 time.sleep(.5)
 print("  '-...-'")
 
